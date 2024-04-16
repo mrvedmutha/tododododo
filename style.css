@@ -1,0 +1,10 @@
+#heading-1 {
+  font-size: 2.25em;
+  font-weight: 700;
+}
+#message-text {
+  height: 125px;
+}
+.form-check {
+  margin-top: 3px;
+}
